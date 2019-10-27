@@ -1972,3 +1972,8 @@ Noida
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
 - GitHub: [Rishabh42](https://github.com/Rishabh42)
+
+#### Name: [Hafid Ali Mustaqim](https://github.com/hafidalim)
+- Place: Tangerang Selatan,Indonesia
+- Bio: Mobile Developer at Udacoding
+- GitHub: [hafidalim](https://github.com/hafidalim)
